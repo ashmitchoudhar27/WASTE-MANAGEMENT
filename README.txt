@@ -1,7 +1,8 @@
-WASTE-MANAGEMENT
+PROBLEM STATEMENT NO: 144
+PROBLEM TITLE:  E- WASTE-MANAGEMENT
 
 Overview
-Welcome to Waste Management, a simple yet efficient tool for managing waste in your community or organization. This project aims to provide a convenient platform for tracking waste collection, disposal, and recycling activities.
+Welcome to DOMESTIC Waste Management, a simple yet efficient tool for managing waste in your community or organization. This project aims to provide a convenient platform for tracking waste collection, disposal, and recycling activities.
 
 Features
 User-Friendly Interface: Intuitive interface for easy navigation and operation.
